@@ -6,7 +6,7 @@ the numbers obtained should be printed in a comma-separated sequence on a single
 
 code:
 
-'list = []
+'''list = []
 for num in range(2000, 3200):
     if num%5 == 0:
         continue
@@ -16,7 +16,7 @@ for num in range(2000, 3200):
     else:
         continue
 
-print(list)'
+print(list)'''
     
 ## forgot the following
 
