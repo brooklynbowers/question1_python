@@ -6,17 +6,15 @@ the numbers obtained should be printed in a comma-separated sequence on a single
 
 code:
 
-'''list = []
+list = []
 for num in range(2000, 3200):
     if num%5 == 0:
         continue
     elif num % 7 == 0:
         list.append(num)
-
     else:
         continue
-
-print(list)'''
+print(list)
     
 ## forgot the following
 
